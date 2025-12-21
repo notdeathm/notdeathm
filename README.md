@@ -3,6 +3,7 @@
 Welcome to my GitHub - I'm a passionate developer building cool projects
 
 🌐 **Check out my personal site** [Website](https://notdeath.vercel.app/)
+
 📦 **Explore my work here on Github**
 
 ----
