@@ -11,6 +11,7 @@ Welcome to my GitHub - I'm a passionate developer building cool projects
 ## About Me
 
 I'm into **anime**, **Building apps tools and website** and someother stuff that i hope will work :)
+
 I enjoy experimenting, and improving my projects 
 
 ---
@@ -19,6 +20,7 @@ I enjoy experimenting, and improving my projects
 
 ### Featured Work
 I'm working on **multiple projects with different ideas**
+
 Check out my Github profile to see what I'm currently Building and Updating
 
 🔗 https://github.com/notdeathm
