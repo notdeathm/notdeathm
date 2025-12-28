@@ -14,8 +14,6 @@ I'm into **anime**, **Building apps tools and website** and someother stuff that
 
 I enjoy experimenting, and improving my projects 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=notdeathm&theme=dark&date_format=j%2Fn%5B%2FY%5D&type=png)](https://git.io/streak-stats)
-
 ---
 
 ## Projects
