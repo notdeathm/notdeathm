@@ -1,3 +1,6 @@
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=notdeathm" alt="GitHub Streak" /></a>
+
 ## 👋 Hi there, I'm Death (aka notdeathm)
 
 Welcome to my GitHub - I'm a passionate developer building cool projects
@@ -13,8 +16,6 @@ Welcome to my GitHub - I'm a passionate developer building cool projects
 I'm into **anime**, **Building apps tools and website** and someother stuff that i hope will work :)
 
 I enjoy experimenting, and improving my projects 
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=notdeathm)](https://git.io/streak-stats)
 
 ---
 
