@@ -1,6 +1,3 @@
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=notdeathm" alt="GitHub Streak" /></a>
-
 ## 👋 Hi there, I'm Death (aka notdeathm)
 
 Welcome to my GitHub - I'm a passionate developer building cool projects
