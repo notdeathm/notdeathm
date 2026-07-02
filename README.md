@@ -2,7 +2,7 @@
 
 Welcome to my GitHub - I'm a passionate developer building cool projects
 
-🌐 **Check out my personal site** [Website](https://notdeath.vercel.app/)
+🌐 **Check out my personal site** [Website](https://notdeathm.is-a.dev)
 
 📦 **Explore my work here on Github**
 
