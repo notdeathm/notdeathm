@@ -34,7 +34,7 @@ More projects coming as I learn and experiment :)
 ## Skills & Tech
 
 - **Frontend** HTML, CSS, JavaScript
-- **Deployment** Vercel
+- **Deployment** Github Pages
 - **Code Place** Github
 - **OS** Arch BTW
 
